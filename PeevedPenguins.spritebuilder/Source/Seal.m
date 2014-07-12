@@ -9,14 +9,14 @@
 #import "Seal.h"
 
 @implementation Seal
--(id) init{
-    self = [super init];
-    
-    if (self) {
-        CCLOG(@"SEAL CREATED");
-    }
-    
-    return self;
-}
+//-(id) init{
+//    self = [super init];
+//    
+//    if (self) {
+//        CCLOG(@"SEAL CREATED");
+//    }
+//    
+//    return self;
+//}
 
 @end

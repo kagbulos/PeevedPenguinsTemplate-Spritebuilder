@@ -9,14 +9,14 @@
 #import "Penguin.h"
 
 @implementation Penguin
--(id) init{
-    self = [super init];
-    
-    if (self) {
-        CCLOG(@"PENGUIN CREATED");
-    }
-    
-    return self;
-}
+//-(id) init{
+//    self = [super init];
+//    
+//    if (self) {
+//        CCLOG(@"PENGUIN CREATED");
+//    }
+//    
+//    return self;
+//}
 
 @end
