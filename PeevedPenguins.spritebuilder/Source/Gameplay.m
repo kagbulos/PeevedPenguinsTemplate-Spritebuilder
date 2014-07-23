@@ -47,8 +47,7 @@
     CCActionFollow *follow = [CCActionFollow actionWithTarget:penguin worldBoundary:self.boundingBox];
     [self runAction:follow];
     
-    CCActionFollow *followRetry = [CCActionFollow actionWithTarget:_retry worldBoundary:self.boundingBox];
-    [self runAction:followRetry];
+
     
 }
 
