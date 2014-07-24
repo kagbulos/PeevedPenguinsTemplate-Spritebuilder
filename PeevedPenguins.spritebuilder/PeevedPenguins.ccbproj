@@ -81,10 +81,7 @@
 			<true/>
 		</dict>
 		<key>Gameplay.ccbi</key>
-		<dict>
-			<key>isDirty</key>
-			<true/>
-		</dict>
+		<dict/>
 		<key>PeevedPenguinsAssets</key>
 		<dict>
 			<key>isSmartSpriteSheet</key>
